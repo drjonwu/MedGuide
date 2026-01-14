@@ -17,7 +17,7 @@ The application offers a rich interactive dashboard with four primary views.
 
 ### Architecture
 * **Frontend:** React 19, TypeScript, Tailwind CSS
-* **AI Orchestration:** Google Gemini 2.5 Flash (via Google GenAI SDK)
+* **AI Orchestration:** Google Gemini 3 Flash (via Google GenAI SDK)
 * **Safety Layer:**
     * **NER Extraction:** Parses unstructured notes into structured JSON.
     * **Deterministic Rules Engine:** A hard-coded logic layer (TypeScript) that checks extracted data against **Beers Criteria** and **STOPP/START** guidelines.
