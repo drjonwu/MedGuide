@@ -1,5 +1,0 @@
-{
-  "name": "MedGuide",
-  "description": "A clinical decision support tool that transforms unstructured patient notes into auditable medication timelines and safety analyses using Gemini 2.5.",
-  "requestFramePermissions": []
-}
