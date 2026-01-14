@@ -2,6 +2,9 @@
 
 **Live Prototype:** https://medguide-jonwu.vercel.app/
 
+### Physician-Builder Context
+Built by **Dr. Jonathan Wu** to demonstrate how **Determinism** can be enforced on **Probabilistic** models (LLMs) in safety-critical clinical workflows.
+
 ### MedGuide Purpose and Use Case
 MedGuide serves as an advanced Clinical Decision Support (CDS) tool designed to assist healthcare professionals in processing complex, unstructured patient history. Its primary use case is transforming free-text clinical progress notes—which are often lengthy, disjointed, and difficult to parse quickly—into structured, auditable data. By automating the extraction of medication timelines and performing real-time safety analyses, the application aims to significantly reduce the cognitive load on clinicians during pre-consultation reviews. It is particularly targeted at preventing medication errors and ensuring adherence to clinical guidelines (such as the Beers Criteria for geriatrics) by flagging potential risks that might be missed during a manual review.
 
