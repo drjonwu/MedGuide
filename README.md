@@ -47,6 +47,8 @@ MedGuide is an **AI-driven Clinical Decision Support (CDS)** tool that parses un
 * **Implementation:** Used vector similarity search (Cosine) to map generated timeline events back to the specific sentence in the "Source Evidence" view.
 * **Why:** Builds trust. Clinicians will not use a "Black Box"; they need to see the sentence that generated the alert.
 
+<img width="876" height="1204" alt="image" src="https://github.com/user-attachments/assets/0cb4f9ef-e909-45c1-82fd-7d6a2152e068" />
+
 ---
 
 ## 3. Current Functionality
